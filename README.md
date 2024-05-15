@@ -19,8 +19,8 @@ I’m a Software Engineer. Currently I'm working as a Front-End Web at [**Gympas
 
 #### My current tools 
 🌎 Front-end Web with ReactJs and NextJs  
-📡 Back-end with C#  
-🔗 BFF with NodeJs  
+📡 Back-end with C# and NodeJS (Typescript)  
+🔗 BFF with NodeJS (Typescript)  
 🛠️ Typescript  
 🧰 And more
 
